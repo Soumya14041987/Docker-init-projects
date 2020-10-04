@@ -10,4 +10,4 @@ i almost say it was fun. Lets begint the credit with the guys at Flask;
 # Technologies Used
 
 ![](https://repository-images.githubusercontent.com/203664833/cb492980-d0ad-11e9-8409-24df853c7078)
-![](https://miro.medium.com/max/800/1*DGnzHHkfYWG53uZE25ZCPw.png)
+![](https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png)
