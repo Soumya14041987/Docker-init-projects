@@ -1,3 +1,5 @@
+# About
+This is aimed to serve as a guide into building a Restful Api using flask for beginners
 # Credits
 All the resources i used for the project will be listed once im done
 for now just enjoy took me awhile to really figure some little things out and 
@@ -8,3 +10,4 @@ i almost say it was fun. Lets begint the credit with the guys at Flask;
 # Technologies Used
 
 ![](https://repository-images.githubusercontent.com/203664833/cb492980-d0ad-11e9-8409-24df853c7078)
+![](https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png)
