@@ -1,3 +1,11 @@
+###This is a Demo simple books application listed three popular Kubernetes books name , its author & approxiamte price (in dollars).
+
+
+###Pre-requisities of Docker init 
+
+1. Docker desktop for Windows system
+2. Login to Docker hub account credentials to authenticate 
+
 ### Building and running your application
 
 When you're ready, start your application by running:
